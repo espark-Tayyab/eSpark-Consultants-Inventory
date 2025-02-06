@@ -9,7 +9,6 @@ This repository contains the complete inventory for eSpark Consulting Group. It 
 ## How to Use
 1. Click the link above to see all the inventory.
 2. Download it if needed for offline use.
-3. Open it using Microsoft Excel or any compatible software.
 
 ## How to Create an Issue
 Follow these steps to create a new issue:
