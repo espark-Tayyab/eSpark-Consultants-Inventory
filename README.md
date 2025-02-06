@@ -5,3 +5,17 @@
 # eSpark Consulting Group - Inventory Management
 
 This repository contains the complete inventory for eSpark Consulting Group. It includes detailed entries for all items, along with their specifications, quantities, locations, and other relevant information. The repository serves as a centralized system for tracking and managing the inventory efficiently, ensuring easy access and updates for all team members.
+
+## How to Use
+1. Click the link above to see all the inventory.
+2. Download it if needed for offline use.
+3. Open it using Microsoft Excel or any compatible software.
+
+## How to Create an Issue
+Follow these steps to create a new issue:
+
+1. Create a new issue in the "Issues" tab.
+2. Use the template "Item Required."
+3. Fill out the template, ensuring the estimated return date is included.
+4. Attach images of the required items.
+5. Submit the issue.
